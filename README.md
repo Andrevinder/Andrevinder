@@ -25,7 +25,7 @@ unpack the file
 open terminal
 > ___If you haven't got python3 installed,___
 ___first of all install it___
-```
+>```
 sudo apt-get install python3.8
 ```
 

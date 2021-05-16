@@ -2,7 +2,7 @@
 ---
 1. __Choose version you want to download__
 
-Download windows build from this repisitory
+Download windows build from this repository
 >___If you choosed .txt file, download link will be inside.___
 2. __Unpack zip file__
 

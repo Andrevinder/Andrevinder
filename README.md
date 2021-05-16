@@ -45,3 +45,6 @@ then run
 ```
 python3 script.py
 ```
+
+[Youtube](https://www.youtube.com/channel/UCbcaNih7wy9ElmIUmnUoNJw)
+[Discord](https://discord.gg/JMyGf336Qr)
